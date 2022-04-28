@@ -1,807 +1,1507 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Activity/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_activityType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Affiliation/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_endDate/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Agent/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_hadInput/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Boolean/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_hadOutput/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Class/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_hasPart/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Code/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_partOf/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Coding/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_performedBy/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Contribution/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_startDate/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/DataItem/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_wasSpecifiedBy/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/DataSet/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_affiliationStatus/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Data_Item/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_endDate/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Data_ItemType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_member/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Date/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_organization/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/DateTime/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_organizationalRole/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Decimal/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_startDate/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Descriptor/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Document/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_affiliation/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Double/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_agentType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Element/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_childOrganization/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Entity/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_parentOrganization/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/EvidenceLine/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_softwareVersion/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Expression/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Boolean/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Extension/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Float/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_code/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/GA4GH-VA-Spec/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_label/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Gene/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_system/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/GeneticCondition/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_systemURL/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Identifier/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_systemVersion/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/InformationEntity/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Integer/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_contributionMadeBy/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Method/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_contributionMadeTo/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Ncname/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_contributorRole/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Nodeidentifier/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_organizationalContext/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Objectidentifier/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Proposition/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_Data_ItemType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/RecordMetadata/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_componentData_Item/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/ResearchStudy/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_confidenceInterval/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/SequenceLocation/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_unit/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Statement/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_value/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/String/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_variability/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/StudyResult/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/TherapeuticIntervention/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_dataSetType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Time/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Data_Item/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Uri/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Data_ItemType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Uriorcurie/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Date/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Url/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DateTime/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/Variation/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Decimal/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/VariationDescriptor/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/activityType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObject/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/affiliationStatus/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectAlias/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/agentType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectDescription/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/alternativeLabel/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectExpression/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/assertedProposition/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectId/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/biotype/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectName/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/childOrganization/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectXref/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/componentData_Item/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/confidenceInterval/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_document_type/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/confidenceLevel/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_title/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/confidenceScore/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Double/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/contributionMadeBy/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Element/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/contributionMadeTo/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Element_extension/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/contributorRole/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/dataSetType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_alternativeLabel/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/dateAuthored/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_description/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/dateRecordCreated/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_id/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/dateRecordLastModified/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_identifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/derivedFrom/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_label/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/description/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_reference/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/disease/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_sourceRecordMeta/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/document_type/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_thisRecordMeta/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/drug/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_type/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/drugOperator/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_url/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/endDate/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_xref/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/evidenceDirection/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/evidenceItemSource/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceDirection/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/evidenceLevel/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceItemSource/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/evidenceLineType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceLineType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/evidenceScore/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceStrength/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/evidenceStrength/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_hasEvidenceItem/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/focus/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_targetProposition/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hadInput/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hadOutput/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_system/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hasEvidence/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_systemURL/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hasEvidenceFromSource/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_systemVersion/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hasEvidenceItem/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_value/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hasEvidenceOfType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Extension_name/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hasEvidence_Line/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Extension_value/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/hasPart/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Float/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/id/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghBoolean/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/inheritancePattern/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghClass/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/interpretation/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghString/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/isAbout/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_biotype/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/isReportedIn/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_location/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/label/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_strand/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/license/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_symbol/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/location/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/member/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_disease/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/methodType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_gene/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/moleculeContext/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_inheritancePattern/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/name/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_phenotype/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/negated/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Identifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/object/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/objectDescriptor/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_confidenceLevel/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/organization/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_confidenceScore/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/organizationalContext/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_dateAuthored/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/organizationalRole/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_derivedFrom/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/parentOrganization/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_hasPart/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/partOf/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_isAbout/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/partOfDataset/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_isReportedIn/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/performedBy/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_license/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/phenotype/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_partOf/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/predicate/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_qualifiedContribution/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/previousVersion/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_version/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/procedure/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_wasOutputOf/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/propositionType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_wasSpecifiedBy/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/qualifiedContribution/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Integer/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/qualifier/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Method/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/qualifierDescriptor/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Method_methodType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/recordIdentifier/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ncname/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/recordURL/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Nodeidentifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/recordVersion/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Objectidentifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/reference/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/researchStudyType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_negated/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/softwareVersion/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_object/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/sourceDataSet/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_predicate/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/sourceRecordMeta/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_propositionType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/sourceStudy/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_qualifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/sourceStudyDate/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_subject/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/sourceStudyMethod/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/sourceStudyType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_dateRecordCreated/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/startDate/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_dateRecordLastModified/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/statementType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_description/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/strand/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_partOfDataset/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/structuralType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_previousVersion/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/studyResultType/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_qualifiedContribution/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/subject/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_recordIdentifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/subjectDescriptor/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_recordURL/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/symbol/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_recordVersion/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/system/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_xref/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/systemURL/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/ResearchStudy/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/systemVersion/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/ResearchStudy_researchStudyType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/targetProposition/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/SequenceLocation/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/thisRecordMeta/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/title/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_assertedProposition/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/type/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_evidenceLevel/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/types/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_evidenceScore/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/unit/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidence/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/value/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidenceFromSource/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObject/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidenceOfType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObjectAlias/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidence_Line/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObjectDescription/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_negated/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObjectExpression/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_object/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObjectId/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_objectDescriptor/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObjectName/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_predicate/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/valueObjectXref/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_qualifier/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/variability/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_qualifierDescriptor/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/version/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_statementType/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/wasOutputOf/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_subject/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/wasSpecifiedBy/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_subjectDescriptor/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sujaypatil96.github.io/ga4gh-schema/xref/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/String/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_Data_Item/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_focus/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_interpretation/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceDataSet/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudy/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudyDate/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudyMethod/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudyType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_studyResultType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_activity/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_drug/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_drugOperator/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_procedure/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Time/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Uri/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Uriorcurie/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Url/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Variation/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/VariationDescriptor/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/VariationDescriptor_moleculeContext/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/VariationDescriptor_structuralType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/activity/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/activityType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/affiliation/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/affiliationStatus/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/agentType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/alternativeLabel/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/assertedProposition/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/biotype/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/childOrganization/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/code/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentData_Item/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/confidenceInterval/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/confidenceLevel/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/confidenceScore/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributionMadeBy/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributionMadeTo/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributorRole/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/dataSetType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/dateAuthored/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/dateRecordCreated/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/dateRecordLastModified/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/derivedFrom/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/description/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/disease/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/document_type/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/drug/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/drugOperator/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/endDate/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceDirection/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceItemSource/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceLevel/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceLineType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceScore/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceStrength/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/extension/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/focus/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/gene/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hadInput/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hadOutput/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidence/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceFromSource/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceItem/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceOfType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidence_Line/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasPart/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/home/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/id/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/inheritancePattern/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/interpretation/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/isAbout/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/isReportedIn/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/label/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/license/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/location/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/member/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/methodType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/moleculeContext/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/name/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/negated/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/object/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/objectDescriptor/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/organization/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/organizationalContext/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/organizationalRole/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/parentOrganization/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/partOf/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/partOfDataset/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/performedBy/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/phenotype/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/predicate/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/previousVersion/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/procedure/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/propositionType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/qualifiedContribution/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/qualifier/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/qualifierDescriptor/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/recordIdentifier/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/recordURL/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/recordVersion/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/reference/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/researchStudyType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/softwareVersion/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceDataSet/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceRecordMeta/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudy/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudyDate/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudyMethod/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudyType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/startDate/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/statementType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/strand/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/structuralType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/studyResultType/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/subject/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/subjectDescriptor/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/symbol/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/system/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/systemURL/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/systemVersion/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/targetProposition/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/thisRecordMeta/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/title/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/type/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/unit/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/value/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObject/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectAlias/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectDescription/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectExpression/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectId/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectName/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectXref/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/variability/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/version/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/wasOutputOf/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/wasSpecifiedBy/</loc>
+         <lastmod>2022-04-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/xref/</loc>
          <lastmod>2022-04-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
