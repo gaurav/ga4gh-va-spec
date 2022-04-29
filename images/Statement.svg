@@ -38,13 +38,13 @@
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-161.3'>dateAuthored(i):dateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-146.3'>version(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-131.3'>license(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-116.3'>id(i):identifier</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-101.3'>identifier(i):identifier *</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-86.3'>type(i):ga4ghClass</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-116.3'>localId(i):identifier</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-101.3'>globalIdentifier(i):identifier *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-86.3'>type(i):class</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-71.3'>label(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-56.3'>alternativeLabel(i):ga4ghString *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-41.3'>description(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-26.3'>url(i):url *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-26.3'>hasURL(i):url *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='250.837' y='-11.3'>xref(i):ga4ghString *</text>
 </g><g class='edge' id='edge1'><title>Descriptor-&gt;Statement</title>
 <path d='M53.2456,-306.923C73.335,-282.709 109.027,-244.497 144.679,-208.371' fill='none' stroke='black'/>
@@ -107,7 +107,7 @@
 <path d='M329.918,-305.431C322.448,-287.254 311.955,-261.719 301.047,-235.177' fill='none' stroke='black'/>
 <polygon fill='black' points='333.775,-314.815 325.812,-307.277 331.874,-310.191 329.974,-305.566 329.974,-305.566 329.974,-305.566 331.874,-310.191 334.136,-303.855 333.775,-314.815 333.775,-314.815' stroke='black'/>
 <polygon fill='black' points='300.916,-234.857 294.935,-230.828 296.354,-223.758 302.335,-227.787 300.916,-234.857' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='332.958' y='-291.132'>hasEvidence Line 0..*</text>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='332.958' y='-291.132'>hasEvidenceLine 0..*</text>
 </g><g class='node' id='node6'><title>DataItem</title>
 <polygon fill='white' points='403.837,-315 403.837,-351 469.837,-351 469.837,-315 403.837,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='436.837' y='-329.3'>DataItem</text>

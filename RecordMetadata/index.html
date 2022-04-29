@@ -301,12 +301,12 @@
 </ul>
 </li>
 <li><a href="../RecordMetadata_recordIdentifier/">RecordMetadata➞recordIdentifier</a>  <sub>0..1</sub><ul>
-<li>Description: The identifier of the described record in its home system/dataset.  Use a business identifier, structured as a CURIE, where possible (as opposed to an internal logical identifier valid only in the context of the source system).</li>
+<li>Description: The business identifier of the record described in the RecordMetadata object (required when the record described is not the one in the present system)</li>
 <li>Range: <a href="../Identifier/">Identifier</a></li>
 </ul>
 </li>
 <li><a href="../RecordMetadata_partOfDataset/">RecordMetadata➞partOfDataset</a>  <sub>0..1</sub><ul>
-<li>Description: The dataset of which the described record is a part.</li>
+<li>Description: The dataset of which the described record is a part (releveant when the record described is not the one in the present system)</li>
 <li>Range: <a href="../DataSet/">DataSet</a></li>
 </ul>
 </li>
@@ -317,7 +317,7 @@
 </li>
 <li><a href="../RecordMetadata_previousVersion/">RecordMetadata➞previousVersion</a>  <sub>0..1</sub><ul>
 <li>Description: The version of a record in the same system that the current record replaces/follows.</li>
-<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
+<li>Range: <a href="../Identifier/">Identifier</a></li>
 </ul>
 </li>
 <li><a href="../RecordMetadata_dateRecordCreated/">RecordMetadata➞dateRecordCreated</a>  <sub>0..1</sub><ul>
@@ -348,9 +348,9 @@
 </ul>
 <h3 id="inherited-from-element">Inherited from Element:</h3>
 <ul>
-<li><a href="../Element_extension/">Element➞extension</a>  <sub>0..*</sub><ul>
+<li><a href="../Element_extensionElement/">Element➞extensionElement</a>  <sub>0..*</sub><ul>
 <li>Description: A key-value data structure that allows definition of custom fields to capture information not directly supported by the VA specification.</li>
-<li>Range: <a href="Extension.md">Extension</a></li>
+<li>Range: <a href="../Extension/">Extension</a></li>
 </ul>
 </li>
 </ul>

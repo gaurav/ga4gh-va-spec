@@ -289,6 +289,8 @@
 </ul>
 <h2 id="referenced-by-class">Referenced by Class</h2>
 <ul>
+<li><strong><a href="./">DataSet</a></strong> <em><a href="../DataSet_currentVersion/">DataSet➞currentVersion</a></em>  <sub>0..1</sub>  <strong><a href="./">DataSet</a></strong></li>
+<li><strong><a href="./">DataSet</a></strong> <em><a href="../DataSet_previousVersion/">DataSet➞previousVersion</a></em>  <sub>0..1</sub>  <strong><a href="./">DataSet</a></strong></li>
 <li><strong><a href="../RecordMetadata/">RecordMetadata</a></strong> <em><a href="../RecordMetadata_partOfDataset/">RecordMetadata➞partOfDataset</a></em>  <sub>0..1</sub>  <strong><a href="./">DataSet</a></strong></li>
 <li><strong><a href="../StudyResult/">StudyResult</a></strong> <em><a href="../StudyResult_sourceDataSet/">StudyResult➞sourceDataSet</a></em>  <sub>0..*</sub>  <strong><a href="./">DataSet</a></strong></li>
 </ul>
@@ -296,31 +298,79 @@
 <h3 id="own">Own</h3>
 <ul>
 <li><a href="../DataSet_dataSetType/">DataSet➞dataSetType</a>  <sub>0..*</sub><ul>
-<li>Description: A more specific type of data set the entity represents (e.g. genomic sequence dataset, genome feature annotation dataset)</li>
+<li>Description: A more specific type of data set the entity represents.</li>
 <li>Range: <a href="../Coding/">Coding</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_dataSetLevel/">DataSet➞dataSetLevel</a>  <sub>0..1</sub><ul>
+<li>Description: The level at which the Data Set is considered and described ('Summary' level, 'Version' level, or 'Distribution' level - see https://www.w3.org/TR/hcls-dataset/#datasetdescriptionlevels)</li>
+<li>Range: <a href="../Coding/">Coding</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_releaseDate/">DataSet➞releaseDate</a>  <sub>0..1</sub><ul>
+<li>Description: The date when a version-level Data Set was released.</li>
+<li>Range: <a href="../DateTime/">DateTime</a></li>
+</ul>
+</li>
+<li><a href="../license/">license</a>  <sub>0..1</sub><ul>
+<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
+</ul>
+</li>
+<li><a href="../version/">version</a>  <sub>0..1</sub><ul>
+<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_previousVersion/">DataSet➞previousVersion</a>  <sub>0..1</sub><ul>
+<li>Description: A version-level Data Set representing the version described here.</li>
+<li>Range: <a href="./">DataSet</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_currentVersion/">DataSet➞currentVersion</a>  <sub>0..1</sub><ul>
+<li>Description: A version-level Data Set representing the most current version at the time of recording.</li>
+<li>Range: <a href="./">DataSet</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_format/">DataSet➞format</a>  <sub>0..1</sub><ul>
+<li>Description: A specific representational format used to encode a distribution-level Dataset.</li>
+<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_conformsTo/">DataSet➞conformsTo</a>  <sub>0..*</sub><ul>
+<li>Description: A community standard that is used in representing any of the data in the Data Set (e.g. an ontology or code system from which enumerated values are drawn, a standard data model used to structure the representation).</li>
+<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_license/">DataSet➞license</a>  <sub>0..1</sub><ul>
+<li>Description: The type of license that dictates legal permissions for how the Data Set can be used - typically referenced by its URL.</li>
+<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
+</ul>
+</li>
+<li><a href="../DataSet_version/">DataSet➞version</a>  <sub>0..1</sub><ul>
+<li>Description: The version of the Data Set (use this field used in cases where version is not reflected in an identifier associated with the Data Set)</li>
+<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
 </ul>
 </li>
 </ul>
 <h3 id="inherited-from-informationentity">Inherited from InformationEntity:</h3>
 <ul>
-<li><a href="../Element_extension/">Element➞extension</a>  <sub>0..*</sub><ul>
+<li><a href="../Element_extensionElement/">Element➞extensionElement</a>  <sub>0..*</sub><ul>
 <li>Description: A key-value data structure that allows definition of custom fields to capture information not directly supported by the VA specification.</li>
-<li>Range: <a href="Extension.md">Extension</a></li>
+<li>Range: <a href="../Extension/">Extension</a></li>
 </ul>
 </li>
-<li><a href="../Entity_id/">Entity➞id</a>  <sub>1..1</sub><ul>
+<li><a href="../Entity_localId/">Entity➞localId</a>  <sub>1..1</sub><ul>
 <li>Description: The 'logical' identifier of the entity in the system of record, e.g. a UUID.  This 'id' is unique within a given system. The identified entity may have a different 'id' in a different system.</li>
 <li>Range: <a href="../Identifier/">Identifier</a></li>
 </ul>
 </li>
-<li><a href="../Entity_identifier/">Entity➞identifier</a>  <sub>0..*</sub><ul>
-<li>Description: A 'business' identifier  or accession number for the entity, typically as provided by an external system or authority, that is globally unique and persists across implementing systems.</li>
+<li><a href="../Entity_globalIdentifier/">Entity➞globalIdentifier</a>  <sub>0..*</sub><ul>
+<li>Description: A 'business' identifier or accession number for the entity, typically as provided by an external system or authority, that is globally unique and persists across implementing systems.</li>
 <li>Range: <a href="../Identifier/">Identifier</a></li>
 </ul>
 </li>
 <li><a href="../Entity_type/">Entity➞type</a>  <sub>1..1</sub><ul>
 <li>Description: The schema class that is instantiated by the data object.  Must be the name of a class from the VA schema.</li>
-<li>Range: <a href="../Ga4ghClass/">Ga4ghClass</a></li>
+<li>Range: <a href="../Class/">Class</a></li>
 </ul>
 </li>
 <li><a href="../Entity_label/">Entity➞label</a>  <sub>0..1</sub><ul>
@@ -338,7 +388,7 @@
 <li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
 </ul>
 </li>
-<li><a href="../Entity_url/">Entity➞url</a>  <sub>0..*</sub><ul>
+<li><a href="../Entity_hasURL/">Entity➞hasURL</a>  <sub>0..*</sub><ul>
 <li>Description: The URL/web address of a digital resource representing the entity, or providing information about it.</li>
 <li>Range: <a href="../Url/">Url</a></li>
 </ul>
@@ -390,7 +440,7 @@
 </li>
 <li><a href="../InformationEntity_wasOutputOf/">InformationEntity➞wasOutputOf</a>  <sub>0..*</sub><ul>
 <li>Description: An activity that generated the Entity.</li>
-<li>Range: <a href="Activity.md">Activity</a></li>
+<li>Range: <a href="../Activity/">Activity</a></li>
 </ul>
 </li>
 <li><a href="../InformationEntity_hasPart/">InformationEntity➞hasPart</a>  <sub>0..*</sub><ul>
@@ -418,16 +468,6 @@
 <li>Range: <a href="../DataItem/">DataItem</a></li>
 </ul>
 </li>
-<li><a href="../InformationEntity_version/">InformationEntity➞version</a>  <sub>0..1</sub><ul>
-<li>Description: The version of the Information Entity (to be used in cases where version is not reflected in the id or identifiers associated with the entity).</li>
-<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
-</ul>
-</li>
-<li><a href="../InformationEntity_license/">InformationEntity➞license</a>  <sub>0..1</sub><ul>
-<li>Description: The type of license that dictates legal permissions for how a resource (e.g. dataset, document, protocol) can be used - typically referenced by its URL.</li>
-<li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
-</ul>
-</li>
 </ul>
 <h2 id="other-properties">Other properties</h2>
 <table>
@@ -447,7 +487,7 @@
 <tr>
 <td><strong>Exact Mappings:</strong></td>
 <td></td>
-<td>iao:0000100</td>
+<td>IAO:0000100</td>
 </tr>
 </tbody>
 </table>

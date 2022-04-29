@@ -2,1507 +2,1617 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_activityType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_endDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_hadInput/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_hadOutput/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_hasPart/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_partOf/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_performedBy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_startDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Activity_wasSpecifiedBy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_affiliationStatus/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_endDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_member/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_organization/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_organizationalRole/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Affiliation_startDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_affiliation/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_agentType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_childOrganization/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_hasAffiliation/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_parentOrganization/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Agent_softwareVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Boolean/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Class/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_code/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_label/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_system/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_systemURL/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Coding_systemVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_contributionMadeBy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_contributionMadeTo/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_contributorRole/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Contribution_organizationalContext/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_Data_ItemType/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_componentData_Item/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_componentDataItem/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_confidenceInterval/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_dataItemType/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_unit/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_value/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataItem_variability/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_conformsTo/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_currentVersion/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_dataSetLevel/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_dataSetType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Data_Item/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_format/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Data_ItemType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_license/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_previousVersion/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_releaseDate/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DataSet_version/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Date/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/DateTime/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Decimal/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObject/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectAlias/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectDescription/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectExpression/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectId/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectName/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Descriptor_valueObjectXref/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_document_type/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_documentType/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_license/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_title/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Document_version/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Double/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Element/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Element_extension/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Element_extensionElement/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_alternativeLabel/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_description/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_id/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_globalIdentifier/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_identifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_hasURL/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_label/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_localId/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_reference/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_sourceRecordMeta/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_thisRecordMeta/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_type/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_url/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Entity_xref/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceDirection/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceItemSource/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceLineType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_evidenceStrength/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_hasEvidenceItem/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/EvidenceLine_targetProposition/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_system/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_systemURL/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_systemVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Expression_value/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Extension/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Extension_description/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Extension_name/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Extension_value/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Float/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghBoolean/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghClass/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghString/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_biotype/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_location/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_strand/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Gene_symbol/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_disease/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_componentDisease/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_gene/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_componentPhenotype/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_contributingGene/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_inheritancePattern/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/GeneticCondition_phenotype/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Identifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_confidenceLevel/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_confidenceScore/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_dateAuthored/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_derivedFrom/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_hasPart/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_isAbout/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_isReportedIn/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_license/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_partOf/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_qualifiedContribution/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_version/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_wasOutputOf/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/InformationEntity_wasSpecifiedBy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Integer/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Method/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Method_methodType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ncname/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Nodeidentifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Objectidentifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_negated/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_object/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_predicate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_propositionType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_qualifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Proposition_subject/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_dateRecordCreated/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_dateRecordLastModified/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_description/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_partOfDataset/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_previousVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_qualifiedContribution/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_recordIdentifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_recordURL/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_recordVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/RecordMetadata_xref/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/ResearchStudy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/ResearchStudy_researchStudyType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/SequenceLocation/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_assertedProposition/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_evidenceLevel/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_evidenceScore/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidence/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidenceFromSource/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidenceLine/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidenceOfType/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_hasEvidence_Line/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_negated/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_object/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_objectDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_predicate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_qualifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_qualifierDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_statementType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_subject/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Statement_subjectDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/String/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_Data_Item/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_data/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_focus/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_interpretation/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceDataSet/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudyDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudyMethod/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_sourceStudyType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/StudyResult_studyResultType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_activity/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_componentActivity/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_drug/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_componentDrug/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_componentProcedure/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_drugOperator/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/TherapeuticIntervention_procedure/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Time/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Uri/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Uriorcurie/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Url/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Variation/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/VariationDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/VariationDescriptor_moleculeContext/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/VariationDescriptor_structuralType/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/activity/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/activityType/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/affiliation/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/affiliationStatus/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/agentType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/alternativeLabel/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/assertedProposition/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/biotype/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/childOrganization/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/code/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentData_Item/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentActivity/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentDataItem/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentDisease/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentDrug/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentPhenotype/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/componentProcedure/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/confidenceInterval/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/confidenceLevel/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/confidenceScore/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/conformsTo/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributingGene/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributionMadeBy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributionMadeTo/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/contributorRole/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/currentVersion/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/data/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/dataItemType/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/dataSetLevel/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/dataSetType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/dateAuthored/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/dateRecordCreated/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/dateRecordLastModified/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/derivedFrom/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/description/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/disease/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/document_type/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/drug/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/documentType/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/drugOperator/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/endDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceDirection/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceItemSource/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceLevel/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceLineType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceScore/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/evidenceStrength/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/extension/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/extensionElement/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/focus/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/gene/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/format/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/globalIdentifier/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hadInput/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hadOutput/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasAffiliation/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidence/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceFromSource/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceItem/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceLine/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidenceOfType/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasEvidence_Line/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasPart/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/hasURL/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/home/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/id/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/inheritancePattern/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/interpretation/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/isAbout/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/isReportedIn/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/label/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/license/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/localId/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/location/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/member/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/methodType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/moleculeContext/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/name/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/negated/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/object/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/objectDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/organization/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/organizationalContext/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/organizationalRole/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/parentOrganization/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/partOf/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/partOfDataset/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/performedBy/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/phenotype/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/predicate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/previousVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/procedure/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/propositionType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/qualifiedContribution/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/qualifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/qualifierDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/recordIdentifier/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/recordURL/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/recordVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/reference/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/releaseDate/</loc>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/researchStudyType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/softwareVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceDataSet/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceRecordMeta/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudyDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudyMethod/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/sourceStudyType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/startDate/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/statementType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/strand/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/structuralType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/studyResultType/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/subject/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/subjectDescriptor/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/symbol/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/system/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/systemURL/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/systemVersion/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/targetProposition/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/thisRecordMeta/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/title/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/type/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/unit/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/value/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObject/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectAlias/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectDescription/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectExpression/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectId/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectName/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/valueObjectXref/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/variability/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/version/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/wasOutputOf/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/wasSpecifiedBy/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/xref/</loc>
-         <lastmod>2022-04-28</lastmod>
+         <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -40,19 +40,19 @@
 <polygon fill='white' points='255.5,-0.5 255.5,-163.5 450.5,-163.5 450.5,-0.5 255.5,-0.5' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-145.3'>GeneticCondition</text>
 <polyline fill='none' points='255.5,-134.5 450.5,-134.5 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-116.3'>id(i):identifier</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-101.3'>identifier(i):identifier *</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-86.3'>type(i):ga4ghClass</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-116.3'>localId(i):identifier</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-101.3'>globalIdentifier(i):identifier *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-86.3'>type(i):class</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-71.3'>label(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-56.3'>alternativeLabel(i):ga4ghString *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-41.3'>description(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-26.3'>url(i):url *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-26.3'>hasURL(i):url *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-11.3'>xref(i):ga4ghString *</text>
 </g><g class='edge' id='edge1'><title>Gene-&gt;GeneticCondition</title>
 <path d='M291.18,-245.276C298.241,-226.742 308.098,-200.867 317.87,-175.217' fill='none' stroke='black'/>
 <polygon fill='black' points='287.517,-254.894 286.871,-243.947 289.297,-250.222 291.077,-245.549 291.077,-245.549 291.077,-245.549 289.297,-250.222 295.282,-247.151 287.517,-254.894 287.517,-254.894' stroke='black'/>
 <polygon fill='black' points='317.921,-175.082 316.319,-168.051 322.193,-163.868 323.795,-170.899 317.921,-175.082' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='300.599' y='-236.067'>gene 0..*</text>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='300.599' y='-236.067'>contributingGene 0..*</text>
 </g><g class='node' id='node5'><title>Coding</title>
 <polygon fill='white' points='326,-255 326,-291 380,-291 380,-255 326,-255' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='353' y='-269.3'>Coding</text>
@@ -65,12 +65,12 @@
 <path d='M353,-244.694C353,-226.426 353,-201.219 353,-176.139' fill='none' stroke='black'/>
 <polygon fill='black' points='353,-254.894 348.5,-244.894 353,-249.894 353,-244.894 353,-244.894 353,-244.894 353,-249.894 357.5,-244.894 353,-254.894 353,-254.894' stroke='black'/>
 <polygon fill='black' points='353,-175.868 349,-169.868 353,-163.868 357,-169.868 353,-175.868' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='359.84' y='-232.4'>phenotype 0..*</text>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='359.84' y='-232.4'>componentPhenotype 0..*</text>
 </g><g class='edge' id='edge4'><title>Coding-&gt;GeneticCondition</title>
 <path d='M362.792,-244.986C365.308,-226.709 366.543,-201.39 366.499,-176.195' fill='none' stroke='black'/>
 <polygon fill='black' points='361.16,-254.894 358.345,-244.296 361.973,-249.961 362.786,-245.027 362.786,-245.027 362.786,-245.027 361.973,-249.961 367.226,-245.758 361.16,-254.894 361.16,-254.894' stroke='black'/>
 <polygon fill='black' points='366.496,-175.868 362.435,-169.908 366.374,-163.868 370.435,-169.828 366.496,-175.868' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='370.964' y='-233.762'>disease 0..*</text>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='370.964' y='-233.762'>componentDisease 0..*</text>
 </g><g class='node' id='node6'><title>Entity</title>
 <polygon fill='white' points='398,-255 398,-291 452,-291 452,-255 398,-255' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='425' y='-269.3'>Entity</text>

@@ -273,6 +273,7 @@
 
 
 <h1 id="class-variationdescriptor">Class: VariationDescriptor</h1>
+<p>A Descriptor that describes a value object representation of a molecular variation.</p>
 <p>URI: <a href="https://example.org/vaspec/VariationDescriptor">vaspec:VariationDescriptor</a></p>
 <p><a href="../images/VariationDescriptor.svg"><img alt="img" src="../images/VariationDescriptor.svg" /></a></p>
 <h2 id="parents">Parents</h2>
@@ -296,24 +297,24 @@
 </ul>
 <h3 id="inherited-from-descriptor">Inherited from Descriptor:</h3>
 <ul>
-<li><a href="../Element_extension/">Element➞extension</a>  <sub>0..*</sub><ul>
+<li><a href="../Element_extensionElement/">Element➞extensionElement</a>  <sub>0..*</sub><ul>
 <li>Description: A key-value data structure that allows definition of custom fields to capture information not directly supported by the VA specification.</li>
-<li>Range: <a href="Extension.md">Extension</a></li>
+<li>Range: <a href="../Extension/">Extension</a></li>
 </ul>
 </li>
-<li><a href="../Entity_id/">Entity➞id</a>  <sub>1..1</sub><ul>
+<li><a href="../Entity_localId/">Entity➞localId</a>  <sub>1..1</sub><ul>
 <li>Description: The 'logical' identifier of the entity in the system of record, e.g. a UUID.  This 'id' is unique within a given system. The identified entity may have a different 'id' in a different system.</li>
 <li>Range: <a href="../Identifier/">Identifier</a></li>
 </ul>
 </li>
-<li><a href="../Entity_identifier/">Entity➞identifier</a>  <sub>0..*</sub><ul>
-<li>Description: A 'business' identifier  or accession number for the entity, typically as provided by an external system or authority, that is globally unique and persists across implementing systems.</li>
+<li><a href="../Entity_globalIdentifier/">Entity➞globalIdentifier</a>  <sub>0..*</sub><ul>
+<li>Description: A 'business' identifier or accession number for the entity, typically as provided by an external system or authority, that is globally unique and persists across implementing systems.</li>
 <li>Range: <a href="../Identifier/">Identifier</a></li>
 </ul>
 </li>
 <li><a href="../Entity_type/">Entity➞type</a>  <sub>1..1</sub><ul>
 <li>Description: The schema class that is instantiated by the data object.  Must be the name of a class from the VA schema.</li>
-<li>Range: <a href="../Ga4ghClass/">Ga4ghClass</a></li>
+<li>Range: <a href="../Class/">Class</a></li>
 </ul>
 </li>
 <li><a href="../Entity_label/">Entity➞label</a>  <sub>0..1</sub><ul>
@@ -331,7 +332,7 @@
 <li>Range: <a href="../Ga4ghString/">Ga4ghString</a></li>
 </ul>
 </li>
-<li><a href="../Entity_url/">Entity➞url</a>  <sub>0..*</sub><ul>
+<li><a href="../Entity_hasURL/">Entity➞hasURL</a>  <sub>0..*</sub><ul>
 <li>Description: The URL/web address of a digital resource representing the entity, or providing information about it.</li>
 <li>Range: <a href="../Url/">Url</a></li>
 </ul>

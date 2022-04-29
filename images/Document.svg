@@ -41,16 +41,16 @@
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-205.3'>Document</text>
 <polyline fill='none' points='156.5,-194.5 351.5,-194.5 ' stroke='black'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-176.3'>title:ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-161.3'>dateAuthored(i):dateTime ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-146.3'>version(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-131.3'>license(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-116.3'>id(i):identifier</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-101.3'>identifier(i):identifier *</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-86.3'>type(i):ga4ghClass</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-161.3'>license:ga4ghString ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-146.3'>version:ga4ghString ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-131.3'>dateAuthored(i):dateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-116.3'>localId(i):identifier</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-101.3'>globalIdentifier(i):identifier *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-86.3'>type(i):class</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-71.3'>label(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-56.3'>alternativeLabel(i):ga4ghString *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-41.3'>description(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-26.3'>url(i):url *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-26.3'>hasURL(i):url *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-11.3'>xref(i):ga4ghString *</text>
 </g><g class='edge' id='edge2'><title>InformationEntity-&gt;Document</title>
 <path d='M249.235,-302.834C248.083,-284.593 247.433,-259.739 247.283,-234.029' fill='none' stroke='black'/>
@@ -73,7 +73,7 @@
 <path d='M343.757,-305.714C335.251,-287.45 323.239,-261.661 310.762,-234.871' fill='none' stroke='black'/>
 <polygon fill='black' points='347.996,-314.815 339.695,-307.65 345.885,-310.283 343.774,-305.75 343.774,-305.75 343.774,-305.75 345.885,-310.283 347.853,-303.85 347.996,-314.815 347.996,-314.815' stroke='black'/>
 <polygon fill='black' points='310.652,-234.636 304.493,-230.886 305.586,-223.758 311.745,-227.508 310.652,-234.636' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='346.262' y='-291.191'>document_type 0..*</text>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='346.262' y='-291.191'>documentType 0..*</text>
 </g><g class='node' id='node8'><title>DataItem</title>
 <polygon fill='white' points='561,-315 561,-351 627,-351 627,-315 561,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='594' y='-329.3'>DataItem</text>

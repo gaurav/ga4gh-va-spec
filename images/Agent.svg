@@ -44,13 +44,13 @@
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-160.8'>Agent</text>
 <polyline fill='none' points='421.5,-150 616.5,-150 ' stroke='black'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-131.8'>softwareVersion:ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-116.8'>id(i):identifier</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-101.8'>identifier(i):identifier *</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-86.8'>type(i):ga4ghClass</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-116.8'>localId(i):identifier</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-101.8'>globalIdentifier(i):identifier *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-86.8'>type(i):class</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-71.8'>label(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-56.8'>alternativeLabel(i):ga4ghString *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-41.8'>description(i):ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-26.8'>url(i):url *</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-26.8'>hasURL(i):url *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='519' y='-11.8'>xref(i):ga4ghString *</text>
 </g><g class='edge' id='edge9'><title>Entity-&gt;Agent</title>
 <path d='M351.72,-263.535C372.361,-242.245 403.578,-210.048 433.476,-179.21' fill='none' stroke='black'/>
@@ -88,7 +88,7 @@
 <path d='M509.358,-260.964C506.848,-242.612 505.563,-217.093 505.502,-191.402' fill='none' stroke='black'/>
 <polygon fill='black' points='510.973,-270.862 504.922,-261.717 510.168,-265.927 509.363,-260.993 509.363,-260.993 509.363,-260.993 510.168,-265.927 513.804,-260.268 510.973,-270.862 510.973,-270.862' stroke='black'/>
 <polygon fill='black' points='505.503,-191.21 501.534,-185.189 505.566,-179.21 509.534,-185.231 505.503,-191.21' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='514.699' y='-247.512'>affiliation 0..*</text>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='514.699' y='-247.512'>hasAffiliation 0..*</text>
 </g><g class='edge' id='edge6'><title>Affiliation-&gt;Agent</title>
 <path d='M519,-258.596C519,-239.929 519,-214.593 519,-189.276' fill='none' stroke='black'/>
 <polygon fill='black' points='519,-258.862 523,-264.862 519,-270.862 515,-264.862 519,-258.862' stroke='black'/>

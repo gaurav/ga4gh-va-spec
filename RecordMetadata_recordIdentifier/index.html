@@ -267,7 +267,7 @@
 
 
 <h1 id="slot-recordidentifier">Slot: recordIdentifier</h1>
-<p>The identifier of the described record in its home system/dataset.  Use a business identifier, structured as a CURIE, where possible (as opposed to an internal logical identifier valid only in the context of the source system).</p>
+<p>The business identifier of the record described in the RecordMetadata object (required when the record described is not the one in the present system)</p>
 <p>URI: <a href="https://example.org/vaspec/RecordMetadata_recordIdentifier">vaspec:RecordMetadata_recordIdentifier</a></p>
 <h2 id="domain-and-range">Domain and Range</h2>
 <p><a href="../RecordMetadata/">RecordMetadata</a> &#8594;  <sub>0..1</sub> <a href="../Identifier/">Identifier</a></p>
@@ -293,7 +293,7 @@
 <tr>
 <td><strong>Comments:</strong></td>
 <td></td>
-<td>Relevant only when the RecordMetadata object describes an upstream source record (sourceRecordMeta).  When it describes the current record in the message, the identifier is captured already in the id or identifier field of the parent Entity from which the RecordMetadata object hangs.</td>
+<td>This is needed only when the RecordMetadata object describes an upstream source record, as opposed to the record in the present system, so it is clear what the metadata it contains is about.  e.g. when ClinGen ingests and transfroms ClinVar data, it wants to maintain a record of when the source ClinVar record was submitted and by whom.  A RecordMetadata object could be created that describes this upstream source recrod, including infromation about its submission to ClinVar.</td>
 </tr>
 </tbody>
 </table>
