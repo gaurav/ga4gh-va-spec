@@ -37,7 +37,7 @@
 <polygon fill='white' points='137.5,-257 137.5,-465 332.5,-465 332.5,-257 137.5,-257' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='235' y='-446.8'>InformationEntity</text>
 <polyline fill='none' points='137.5,-436 332.5,-436 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='235' y='-417.8'>dateAuthored:dateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='235' y='-417.8'>dateAuthored:ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='235' y='-402.8'>version:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='235' y='-387.8'>license:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='235' y='-372.8'>localId(i):identifier</text>

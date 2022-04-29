@@ -31,11 +31,11 @@
 <polygon fill='white' points='9.06037,-315 9.06037,-351 66.0604,-351 66.0604,-315 9.06037,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='37.5604' y='-329.3'>Method</text>
 </g><g class='node' id='node2'><title>StudyResult</title>
-<polygon fill='white' points='107.06,-0.5 107.06,-223.5 302.06,-223.5 302.06,-0.5 107.06,-0.5' stroke='black' style='fill:white;stroke:black;'/>
+<polygon fill='white' points='100.56,-0.5 100.56,-223.5 308.56,-223.5 308.56,-0.5 100.56,-0.5' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-205.3'>StudyResult</text>
-<polyline fill='none' points='107.06,-194.5 302.06,-194.5 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-176.3'>sourceStudyDate:dateTime ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-161.3'>dateAuthored(i):dateTime ?</text>
+<polyline fill='none' points='100.56,-194.5 308.56,-194.5 ' stroke='black'/>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-176.3'>sourceStudyDate:ga4ghDateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-161.3'>dateAuthored(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-146.3'>version(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-131.3'>license(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='204.56' y='-116.3'>localId(i):identifier</text>
@@ -97,15 +97,15 @@
 <polygon fill='white' points='430.56,-315 430.56,-351 484.56,-351 484.56,-315 430.56,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='457.56' y='-329.3'>Entity</text>
 </g><g class='edge' id='edge7'><title>Entity-&gt;StudyResult</title>
-<path d='M430.012,-308.153C401.429,-283.412 354.924,-243.157 311.554,-205.615' fill='none' stroke='black'/>
+<path d='M429.982,-308.128C402.762,-284.566 359.307,-246.951 317.783,-211.007' fill='none' stroke='black'/>
 <polygon fill='black' points='437.708,-314.815 427.202,-311.673 433.927,-311.543 430.147,-308.271 430.147,-308.271 430.147,-308.271 433.927,-311.543 433.092,-304.868 437.708,-314.815 437.708,-314.815' stroke='black'/>
-<polygon fill='black' points='311.427,-205.505 304.273,-204.603 302.354,-197.652 309.509,-198.554 311.427,-205.505' stroke='black'/>
+<polygon fill='black' points='317.753,-210.981 310.599,-210.079 308.68,-203.128 315.835,-204.03 317.753,-210.981' stroke='black'/>
 <text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='427.975' y='-293.643'>focus 0..*</text>
 </g><g class='node' id='node8'><title>InformationEntity</title>
 <polygon fill='white' points='503.06,-315 503.06,-351 616.06,-351 616.06,-315 503.06,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='559.56' y='-329.3'>InformationEntity</text>
 </g><g class='edge' id='edge9'><title>InformationEntity-&gt;StudyResult</title>
-<path d='M523.21,-309.575C471.65,-277.768 375.403,-218.393 302.128,-173.19' fill='none' stroke='black'/>
+<path d='M523.474,-309.738C473.527,-278.926 381.291,-222.025 308.813,-177.314' fill='none' stroke='black'/>
 <polygon fill='none' points='521.651,-312.726 532,-314.998 525.326,-306.768 521.651,-312.726' stroke='black'/>
 </g><g class='node' id='node9'><title>RecordMetadata</title>
 <polygon fill='white' points='634.06,-315 634.06,-351 739.06,-351 739.06,-315 634.06,-315' stroke='black' style='fill:white;stroke:black;'/>

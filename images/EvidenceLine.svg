@@ -31,10 +31,10 @@
 <polygon fill='white' points='-0.5,-429 -0.5,-465 68.5,-465 68.5,-429 -0.5,-429' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='34' y='-443.3'>Statement</text>
 </g><g class='node' id='node7'><title>EvidenceLine</title>
-<polygon fill='white' points='116.5,-1 116.5,-209 311.5,-209 311.5,-1 116.5,-1' stroke='black' style='fill:white;stroke:black;'/>
+<polygon fill='white' points='113,-1 113,-209 315,-209 315,-1 113,-1' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-190.8'>EvidenceLine</text>
-<polyline fill='none' points='116.5,-180 311.5,-180 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-161.8'>dateAuthored(i):dateTime ?</text>
+<polyline fill='none' points='113,-180 315,-180 ' stroke='black'/>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-161.8'>dateAuthored(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-146.8'>version(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-131.8'>license(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-116.8'>localId(i):identifier</text>
@@ -46,10 +46,10 @@
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-26.8'>hasURL(i):url *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='214' y='-11.8'>xref(i):ga4ghString *</text>
 </g><g class='edge' id='edge7'><title>Statement-&gt;EvidenceLine</title>
-<path d='M33.1112,-416.769C33.2395,-386.356 36.4515,-337.965 53,-300 66.9279,-268.047 87.7712,-237.2 109.879,-209.863' fill='none' stroke='black'/>
+<path d='M33.1112,-416.769C33.2395,-386.356 36.4515,-337.965 53,-300 66.1946,-269.73 85.5954,-240.452 106.398,-214.21' fill='none' stroke='black'/>
 <polygon fill='black' points='33.1133,-416.998 37.1683,-422.961 33.2237,-428.997 29.1686,-423.034 33.1133,-416.998' stroke='black'/>
-<polygon fill='black' points='116.458,-201.872 113.576,-212.453 113.28,-205.733 110.102,-209.593 110.102,-209.593 110.102,-209.593 113.28,-205.733 106.628,-206.732 116.458,-201.872 116.458,-201.872' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='90.6185' y='-213.415'> hasEvidenceLine 0..*</text>
+<polygon fill='black' points='112.894,-206.166 110.113,-216.773 109.753,-210.056 106.612,-213.946 106.612,-213.946 106.612,-213.946 109.753,-210.056 103.111,-211.119 112.894,-206.166 112.894,-206.166' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='87.2003' y='-217.952'> hasEvidenceLine 0..*</text>
 </g><g class='node' id='node2'><title>RecordMetadata</title>
 <polygon fill='white' points='86.5,-429 86.5,-465 191.5,-465 191.5,-429 86.5,-429' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='139' y='-443.3'>RecordMetadata</text>

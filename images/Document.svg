@@ -37,13 +37,13 @@
 <polygon fill='white' points='197.5,-315 197.5,-351 310.5,-351 310.5,-315 197.5,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-329.3'>InformationEntity</text>
 </g><g class='node' id='node7'><title>Document</title>
-<polygon fill='white' points='156.5,-0.5 156.5,-223.5 351.5,-223.5 351.5,-0.5 156.5,-0.5' stroke='black' style='fill:white;stroke:black;'/>
+<polygon fill='white' points='153,-0.5 153,-223.5 355,-223.5 355,-0.5 153,-0.5' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-205.3'>Document</text>
-<polyline fill='none' points='156.5,-194.5 351.5,-194.5 ' stroke='black'/>
+<polyline fill='none' points='153,-194.5 355,-194.5 ' stroke='black'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-176.3'>title:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-161.3'>license:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-146.3'>version:ga4ghString ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-131.3'>dateAuthored(i):dateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-131.3'>dateAuthored(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-116.3'>localId(i):identifier</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-101.3'>globalIdentifier(i):identifier *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='254' y='-86.3'>type(i):class</text>

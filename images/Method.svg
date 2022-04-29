@@ -31,10 +31,10 @@
 <polygon fill='white' points='-0.5,-429 -0.5,-465 80.5,-465 80.5,-429 -0.5,-429' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='40' y='-443.3'>StudyResult</text>
 </g><g class='node' id='node4'><title>Method</title>
-<polygon fill='white' points='52.5,-1 52.5,-209 247.5,-209 247.5,-1 52.5,-1' stroke='black' style='fill:white;stroke:black;'/>
+<polygon fill='white' points='49,-1 49,-209 251,-209 251,-1 49,-1' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='150' y='-190.8'>Method</text>
-<polyline fill='none' points='52.5,-180 247.5,-180 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='150' y='-161.8'>dateAuthored(i):dateTime ?</text>
+<polyline fill='none' points='49,-180 251,-180 ' stroke='black'/>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='150' y='-161.8'>dateAuthored(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='150' y='-146.8'>version(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='150' y='-131.8'>license(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='150' y='-116.8'>localId(i):identifier</text>

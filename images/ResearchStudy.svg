@@ -34,8 +34,8 @@
 <polygon fill='white' points='28.5,-0.5 28.5,-193.5 223.5,-193.5 223.5,-0.5 28.5,-0.5' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-175.3'>ResearchStudy</text>
 <polyline fill='none' points='28.5,-164.5 223.5,-164.5 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-146.3'>startDate(i):dateTime ?</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-131.3'>endDate(i):dateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-146.3'>startDate(i):ga4ghDateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-131.3'>endDate(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-116.3'>localId(i):identifier</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-101.3'>globalIdentifier(i):identifier *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='126' y='-86.3'>type(i):class</text>

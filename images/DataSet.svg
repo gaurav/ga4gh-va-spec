@@ -31,15 +31,15 @@
 <polygon fill='white' points='-0.5,-345 -0.5,-381 80.5,-381 80.5,-345 -0.5,-345' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='40' y='-359.3'>StudyResult</text>
 </g><g class='node' id='node8'><title>DataSet</title>
-<polygon fill='white' points='180.5,-0.5 180.5,-253.5 375.5,-253.5 375.5,-0.5 180.5,-0.5' stroke='black' style='fill:white;stroke:black;'/>
+<polygon fill='white' points='177,-0.5 177,-253.5 379,-253.5 379,-0.5 177,-0.5' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-235.3'>DataSet</text>
-<polyline fill='none' points='180.5,-224.5 375.5,-224.5 ' stroke='black'/>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-206.3'>releaseDate:dateTime ?</text>
+<polyline fill='none' points='177,-224.5 379,-224.5 ' stroke='black'/>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-206.3'>releaseDate:ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-191.3'>license:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-176.3'>version:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-161.3'>format:ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-146.3'>conformsTo:ga4ghString *</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-131.3'>dateAuthored(i):dateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-131.3'>dateAuthored(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-116.3'>localId(i):identifier</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-101.3'>globalIdentifier(i):identifier *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-86.3'>type(i):class</text>
@@ -49,10 +49,10 @@
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-26.3'>hasURL(i):url *</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='278' y='-11.3'>xref(i):ga4ghString *</text>
 </g><g class='edge' id='edge6'><title>StudyResult-&gt;DataSet</title>
-<path d='M66.15,-336.29C92.1122,-310.764 133.627,-269.946 173.055,-231.181' fill='none' stroke='black'/>
+<path d='M66.269,-336.173C91.5235,-311.342 131.416,-272.121 169.797,-234.384' fill='none' stroke='black'/>
 <polygon fill='black' points='66.0576,-336.38 64.5835,-343.439 57.5007,-344.793 58.9748,-337.735 66.0576,-336.38' stroke='black'/>
-<polygon fill='black' points='180.389,-223.971 176.413,-234.19 176.823,-227.476 173.258,-230.982 173.258,-230.982 173.258,-230.982 176.823,-227.476 170.103,-227.773 180.389,-223.971 180.389,-223.971' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='153.093' y='-232.718'> sourceDataSet 0..*</text>
+<polygon fill='black' points='176.943,-227.359 172.967,-237.579 173.377,-230.864 169.812,-234.37 169.812,-234.37 169.812,-234.37 173.377,-230.864 166.657,-231.161 176.943,-227.359 176.943,-227.359' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='149.647' y='-236.107'> sourceDataSet 0..*</text>
 </g><g class='node' id='node2'><title>RecordMetadata</title>
 <polygon fill='white' points='98.5,-345 98.5,-381 203.5,-381 203.5,-345 98.5,-345' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='151' y='-359.3'>RecordMetadata</text>
@@ -80,15 +80,15 @@
 <polygon fill='white' points='660,-345 660,-381 732,-381 732,-345 660,-345' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='696' y='-359.3'>Document</text>
 </g><g class='edge' id='edge1'><title>DataSet-&gt;DataSet</title>
-<path d='M384.762,-141.131C389.95,-137.595 393,-132.884 393,-127 393,-121.8 390.618,-117.517 386.484,-114.15' fill='none' stroke='black'/>
-<polygon fill='black' points='375.738,-145.474 382.798,-137.083 380.244,-143.306 384.749,-141.138 384.749,-141.138 384.749,-141.138 380.244,-143.306 386.7,-145.193 375.738,-145.474 375.738,-145.474' stroke='black'/>
-<polygon fill='black' points='386.37,-114.091 379.199,-114.853 375.738,-108.526 382.909,-107.765 386.37,-114.091' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='395.639' y='-139.789'>currentVersion 0..1</text>
+<path d='M388.475,-141.131C393.844,-137.595 397,-132.884 397,-127 397,-121.663 394.404,-117.292 389.915,-113.886' fill='none' stroke='black'/>
+<polygon fill='black' points='379.138,-145.474 386.308,-137.177 383.671,-143.365 388.205,-141.257 388.205,-141.257 388.205,-141.257 383.671,-143.365 390.103,-145.337 379.138,-145.474 379.138,-145.474' stroke='black'/>
+<polygon fill='black' points='389.882,-113.87 382.729,-114.78 379.138,-108.526 386.291,-107.616 389.882,-113.87' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='399.063' y='-140.052'>currentVersion 0..1</text>
 </g><g class='edge' id='edge2'><title>DataSet-&gt;DataSet</title>
-<path d='M385.312,-166.788C400.676,-160.395 411,-147.133 411,-127 411,-107.808 401.618,-94.859 387.432,-88.1529' fill='none' stroke='black'/>
-<polygon fill='black' points='375.723,-169.758 383.944,-162.501 380.499,-168.279 385.275,-166.8 385.275,-166.8 385.275,-166.8 380.499,-168.279 386.607,-171.098 375.723,-169.758 375.723,-169.758' stroke='black'/>
-<polygon fill='black' points='387.105,-88.0437 380.146,-89.9365 375.723,-84.2415 382.681,-82.3487 387.105,-88.0437' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='395.699' y='-167.032'>previousVersion 0..1</text>
+<path d='M388.992,-166.603C404.568,-160.141 415,-146.94 415,-127 415,-107.805 405.333,-94.8554 390.717,-88.15' fill='none' stroke='black'/>
+<polygon fill='black' points='379.267,-169.629 387.478,-162.361 384.041,-168.143 388.815,-166.658 388.815,-166.658 388.815,-166.658 384.041,-168.143 390.152,-170.955 379.267,-169.629 379.267,-169.629' stroke='black'/>
+<polygon fill='black' points='390.662,-88.132 383.711,-90.0501 379.267,-84.3712 386.218,-82.4531 390.662,-88.132' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='399.244' y='-166.877'>previousVersion 0..1</text>
 </g><g class='node' id='node9'><title>Coding</title>
 <polygon fill='white' points='353,-345 353,-381 407,-381 407,-345 353,-345' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='380' y='-359.3'>Coding</text>

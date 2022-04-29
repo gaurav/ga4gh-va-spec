@@ -276,7 +276,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.ggvaidya.com/ga4gh-va-spec/DateTime/</loc>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Datetime/</loc>
          <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -512,6 +512,11 @@
     </url>
     <url>
          <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghBoolean/</loc>
+         <lastmod>2022-04-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.ggvaidya.com/ga4gh-va-spec/Ga4ghDateTime/</loc>
          <lastmod>2022-04-29</lastmod>
          <changefreq>daily</changefreq>
     </url>

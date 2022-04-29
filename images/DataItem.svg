@@ -31,11 +31,11 @@
 <polygon fill='white' points='-0.5,-315 -0.5,-351 80.5,-351 80.5,-315 -0.5,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='40' y='-329.3'>StudyResult</text>
 </g><g class='node' id='node9'><title>DataItem</title>
-<polygon fill='white' points='107.5,-0.5 107.5,-223.5 302.5,-223.5 302.5,-0.5 107.5,-0.5' stroke='black' style='fill:white;stroke:black;'/>
+<polygon fill='white' points='104,-0.5 104,-223.5 306,-223.5 306,-0.5 104,-0.5' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-205.3'>DataItem</text>
-<polyline fill='none' points='107.5,-194.5 302.5,-194.5 ' stroke='black'/>
+<polyline fill='none' points='104,-194.5 306,-194.5 ' stroke='black'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-176.3'>value:ga4ghString</text>
-<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-161.3'>dateAuthored(i):dateTime ?</text>
+<text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-161.3'>dateAuthored(i):ga4ghDateTime ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-146.3'>version(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-131.3'>license(i):ga4ghString ?</text>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='205' y='-116.3'>localId(i):identifier</text>
@@ -86,20 +86,20 @@
 <polygon fill='white' points='637,-443 637,-479 709,-479 709,-443 637,-443' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='673' y='-457.3'>Document</text>
 </g><g class='edge' id='edge1'><title>DataItem-&gt;DataItem</title>
-<path d='M312.472,-120.471C317.227,-118.31 320,-115.487 320,-112 320,-108.938 317.862,-106.388 314.122,-104.349' fill='none' stroke='black'/>
-<polygon fill='black' points='302.738,-123.481 310.962,-116.227 307.515,-122.004 312.292,-120.526 312.292,-120.526 312.292,-120.526 307.515,-122.004 313.621,-124.826 302.738,-123.481 302.738,-123.481' stroke='black'/>
-<polygon fill='black' points='314.112,-104.346 307.149,-106.224 302.738,-100.519 309.7,-98.6414 314.112,-104.346' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='322.714' y='-120.764'>componentDataItem 0..*</text>
+<path d='M315.846,-120.628C320.989,-118.448 324,-115.572 324,-112 324,-108.853 321.663,-106.247 317.591,-104.18' fill='none' stroke='black'/>
+<polygon fill='black' points='306.138,-123.481 314.463,-116.344 310.935,-122.071 315.732,-120.661 315.732,-120.661 315.732,-120.661 310.935,-122.071 317.001,-124.979 306.138,-123.481 306.138,-123.481' stroke='black'/>
+<polygon fill='black' points='317.568,-104.173 310.635,-106.156 306.138,-100.519 313.071,-98.5361 317.568,-104.173' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='326.098' y='-121.045'>componentDataItem 0..*</text>
 </g><g class='edge' id='edge2'><title>DataItem-&gt;DataItem</title>
-<path d='M312.741,-136.615C327.868,-132.6 338,-124.395 338,-112 338,-100.19 328.801,-92.1836 314.848,-87.9814' fill='none' stroke='black'/>
-<polygon fill='black' points='302.723,-138.573 311.674,-132.238 307.63,-137.614 312.537,-136.654 312.537,-136.654 312.537,-136.654 307.63,-137.614 313.401,-141.071 302.723,-138.573 302.723,-138.573' stroke='black'/>
-<polygon fill='black' points='314.465,-87.9009 307.769,-90.578 302.723,-85.4269 309.419,-82.7498 314.465,-87.9009' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='322.48' y='-137.981'>confidenceInterval 0..1</text>
+<path d='M316.427,-136.498C331.762,-132.442 342,-124.276 342,-112 342,-100.187 332.52,-92.1798 318.141,-87.9784' fill='none' stroke='black'/>
+<polygon fill='black' points='306.267,-138.493 315.213,-132.151 311.173,-137.529 316.079,-136.566 316.079,-136.566 316.079,-136.566 311.173,-137.529 316.946,-140.982 306.267,-138.493 306.267,-138.493' stroke='black'/>
+<polygon fill='black' points='318.015,-87.9522 311.326,-90.646 306.267,-85.5075 312.956,-82.8138 318.015,-87.9522' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='326.026' y='-137.885'>confidenceInterval 0..1</text>
 </g><g class='edge' id='edge3'><title>DataItem-&gt;DataItem</title>
-<path d='M312.887,-152.344C337.741,-148.872 356,-135.424 356,-112 356,-89.198 338.698,-75.8493 314.853,-71.9539' fill='none' stroke='black'/>
-<polygon fill='black' points='302.669,-153.199 312.259,-147.881 307.651,-152.782 312.634,-152.365 312.634,-152.365 312.634,-152.365 307.651,-152.782 313.009,-156.849 302.669,-153.199 302.669,-153.199' stroke='black'/>
-<polygon fill='black' points='314.615,-71.9315 308.265,-75.3485 302.669,-70.801 309.019,-67.384 314.615,-71.9315' stroke='black'/>
-<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='321.968' y='-154.748'>variability 0..*</text>
+<path d='M316.029,-152.305C341.396,-148.772 360,-135.337 360,-112 360,-89.2799 342.367,-75.9453 318.026,-71.9962' fill='none' stroke='black'/>
+<polygon fill='black' points='306,-153.174 315.574,-147.827 310.982,-152.742 315.963,-152.31 315.963,-152.31 315.963,-152.31 310.982,-152.742 316.352,-156.794 306,-153.174 306,-153.174' stroke='black'/>
+<polygon fill='black' points='317.944,-71.9883 311.585,-75.3884 306,-70.8262 312.359,-67.426 317.944,-71.9883' stroke='black'/>
+<text style='font-size:8px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='325.315' y='-154.666'>variability 0..*</text>
 </g><g class='node' id='node10'><title>Coding</title>
 <polygon fill='white' points='242,-315 242,-351 296,-351 296,-315 242,-315' stroke='black' style='fill:white;stroke:black;'/>
 <text style='font-size:10px; font-family:Verdana;' text-anchor='middle' transform='translate(0,0)' x='269' y='-329.3'>Coding</text>
